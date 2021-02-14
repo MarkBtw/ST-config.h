@@ -26,11 +26,8 @@ Step 7: Now, delete the repository you cloned, restart ST, and you should now ha
 
 
 
-
-
-==============
-ERROR FIXES
-==============
+ERROR FIX
+=========
 
 Try the following If it doesn't let you write to your "YourSucklessDirectory/ST-0.8.4/config.h" file:
 
