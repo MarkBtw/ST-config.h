@@ -4,7 +4,7 @@ My tweaked ST config.h file.
 
 First of all; make sure to put all your Suckless Software into one directory, mine is named /Suckless/.
 I will be refering to this directory with "YourSucklessDirectory", so replace that part with the name of your directory.
-Also make sure to create a BACK-UP in case you make a big oof.
+Also make sure to create a BACK-UP of your original config file in case you make a big oof.
 
 Now, to use my custom fork of ST, simply follow these steps:
 
